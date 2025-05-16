@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\bin\Debug\net8.0-windows\AppPrueba.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\bin\Debug\net8.0-windows\AppPrueba.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\bin\Debug\net8.0-windows\AppPrueba.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\bin\Debug\net8.0-windows\AppPrueba.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\bin\Debug\net8.0-windows\AppPrueba.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.Form1.resources
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\refint\AppPrueba.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\AppPrueba.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\Practicas del Modulo 1\AppPrueba\obj\Debug\net8.0-windows\ref\AppPrueba.dll
