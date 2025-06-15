@@ -1,0 +1,33 @@
+name: Hola Mundo CI
+
+on:
+  push:
+
+jobs:
+  notificar-y-ejecutar:
+    name: Enviar notificación a ntfy.sh
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Enviar notificación
+        run: |
+          curl -H "Title: Nuevo push al repositorio" ^
+               -H "Priority: high" ^
+               -d "El usuario ha subido cambios. Ver commit: ${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}" ^
+               https://ntfy.sh/devops-itla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
