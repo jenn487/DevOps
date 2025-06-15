@@ -3,11 +3,11 @@ name: Deploy to Surge
 on:
   push:
     branches:
-      - main
+      - 1erParcial
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - name: Checkout repository
@@ -15,8 +15,6 @@ jobs:
 
     - name: Build and Deploy
       run: |
-        # Configurar Surge.sh
         npm install --global surge
         surge token ebfc1230ed32e04f38dbc1608a024444
-        # Desplegar en Surge.sh
         surge --project ./ --domain jennifer-contents.surge.sh 
